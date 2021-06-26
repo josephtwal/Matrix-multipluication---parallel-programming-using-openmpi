@@ -1,1 +1,1 @@
-# Matrix-multipluication---parallel-programming-using-openmpi
+# Matrix-multipluication-parallel-programming-using-openmpi
